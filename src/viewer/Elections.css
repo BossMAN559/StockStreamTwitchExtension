@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
+
+
+.Elections {
+	display: block;
+	overflow: auto;
+	font-family: 'Press Start 2P', cursive;
+	text-align: center;
+	color: white;
+	margin-top: 0;
+	width: 100%;
+	overflow: auto;
+}
+
+.Elections ul {
+	padding-left: 0;
+	margin-top: 0;
+	display: inline-block;
+	width: 100%;
+	list-style-type: none;
+}
+
+.Elections li {
+	padding-top: 5px;
+	padding-left: 0px;
+	padding-bottom: 0px;
+	font-size: 1em;
+	color: white;
+}
+
+.Elections hr {
+	border: 0;
+	width: 75%;
+	height: 2px;
+	margin: 10px;
+	background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0));
+}
+
+.Elections .selected {
+	border: 1px solid cyan;
+	cursor: auto;
+	color: cyan;
+}
+
+.TradingElection {
+	margin-bottom: 400px;
+	width: 100%;
+}
+
+.SpeedElection {
+	margin-bottom: 10px;
+	width: 100%;
+}
+
+

@@ -1,0 +1,17 @@
+
+.EventName {
+	margin-top: 1.3vw;
+	margin-bottom: 5px;
+	font-size: 1.4vw;
+	white-space: nowrap;
+}
+
+.Header {
+	font-size: 2vw;
+	margin-top: 5px;
+	font-family: 'Press Start 2P', cursive;
+}
+
+.Countdown {
+	font-size: 1.4vw;
+}

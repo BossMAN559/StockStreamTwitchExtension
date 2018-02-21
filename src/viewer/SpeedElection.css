@@ -1,0 +1,12 @@
+
+.SpeedButton {
+	width: 45%;
+	margin-left: 5px;
+	display: inline-block;
+	font-size: 1.3vw;
+}
+
+.SpeedButton .ProgressButtonText {
+	float: none;
+	margin: 2px;
+}
